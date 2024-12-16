@@ -60,9 +60,9 @@ Provide any financial gain to the author or any third party.
 
 8.1 The author reserves the right to change the license terms for future versions of the work. Such changes may apply retroactively if explicitly stated.
 
-9. Compatibility with GNU GPL v2
+9. Compatibility with other licenses
 
-9.1 This license is designed to allow repositories or specific files to be dual-licensed under this license and GNU GPL v2, provided such compatibility is explicitly stated.
+9.1 The work under the SP-NTX License can be redistributed with projects licensed under other licenses as long as it is compatible with the other license and the files under the SP-NTX License remain under the SP-NTX License.
 
 10. Additional Requirements
 
